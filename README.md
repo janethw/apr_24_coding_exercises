@@ -1,1 +1,1 @@
-# apr_24_coding_exercises
+# coding_exercises
